@@ -48,3 +48,26 @@
           width: 100%;
       }
   }
+
+  @media (max-width: 1000px){
+      .sign-in {
+          margin-left: 200px;
+      }
+  }
+  @media (max-width: 640px){
+    .sign-in {
+        margin-left: 100px;
+    }
+}
+
+@media (max-width: 450px){
+    .sign-in {
+        margin-left: 60px;
+    }
+}
+
+@media (max-width: 315px){
+    .sign-in {
+        margin-left: 25px;
+    }
+}
