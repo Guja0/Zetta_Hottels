@@ -522,3 +522,16 @@
 .fa-location-arrow{
     margin-left: 15px;
 }
+.sign-in {
+    background-color: #3B5998;
+    height: 80px;
+    width: 250px;
+    margin-left: 550px;
+    margin-top: 50px;
+
+}
+.sign-p{
+    font-size: x-large;
+    padding: 25px 75px;
+    color: black;
+}
